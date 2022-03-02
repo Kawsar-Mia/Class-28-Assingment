@@ -1,0 +1,69 @@
+.logo{
+    width: 90px;
+}
+nav.navbar{
+    background: #fff !important;
+}
+.main-section-bg{
+    background: #f9f9ff;
+}
+
+/* Banner Css */
+.banner{
+     background: #f9f9ff;
+}
+.banner-button{
+    background: #000;
+    position: .5s;
+}
+.banner-button:hover{
+   background: #0d6efd;
+}
+
+/* Price CSS */
+
+.price{
+    background: #8490ff;
+}
+
+/* Pricing Text CSS */
+
+.pricing-item{
+    background: #fff;
+    padding: 50px;
+    border-radius: 5px;
+}   
+/* .pricing-circle h3{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    background: #000;
+} */
+.pricing-button{
+}
+.pricing-button a{
+    background: #fff;
+    font-size: 25px;
+    border-width: 2px;
+    padding: 15px 30px;
+    box-shadow: 2px 4px 30px 0 rgba(60, 80, 190, 0.3);
+}
+
+/* About Section Css */
+
+.about-item{
+    margin-top: 80px;
+}
+.about-item .card{}
+.about-item .card img{
+    width: 130px;
+    height: auto;
+    margin-top: -70px;
+    margin-left: 15px;
+}
+
+/* Contact CSS */
+.contact-form .card{
+    box-shadow: 2px 4px 30px 0 rgba(60, 80, 190, 0.3);
+    padding: 40px;
+}
